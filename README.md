@@ -1,4 +1,4 @@
-# venv for odoo10
+# venv for Odoo 10
 ```
 source bin/activate
 pip freeze
